@@ -2,35 +2,171 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Ratio of absorbance of DNA sample at 260/280 nm wavelengths is 2.1. This observation suggests _____",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Absence of any impurities",
+        "b": "Contamination of protein",
+        "c": "Contamination of RNA",
+        "d": "Denaturation of DNA"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In nucleic acids, ____________ provides the backbone to the polymer.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nitrogenous bases",
+        "b": "Phosphoric acid",
+        "c": "Ribose sugar",
+        "d": "Hydrogen bonds"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In nucleic acids, the sugar-phosphate backbone gives polarity, running from ________.",
+      "answers": {
+        "a": "3' to 5'",
+        "b": "5' to 3'",
+        "c": "N-terminal to C-terminal",
+        "d": "Circular to linear"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Statement that accurately distinguishes ribose from deoxyribose",
+      "answers": {
+        "a": "Ribose lacks hydroxyl group at 2' carbon",
+        "b": "Deoxyribose lacks hydroxyl group at 2' carbon",
+        "c": "Ribose lacks hydroxyl group at 3' carbon",
+        "d": "Deoxyribose lacks hydroxyl group at 3' carbon"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Nitrogenous bases are termed \"9-membered\" primarily because:",
+      "answers": {
+        "a": "They contain nine nitrogen atoms",
+        "b": "They possess nine pi electrons",
+        "c": "They form nine hydrogen bonds",
+        "d": "Their total ring atoms equal nine"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "mRNA differs structurally from other RNA species mainly by the presence of",
+      "answers": {
+        "a": "5' phosphate and 3' hydroxyl",
+        "b": "Poly-A tail and 5' cap",
+        "c": "Ribose sugar and uracil",
+        "d": "Internal modified bases only"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "RNA absorbs UV light maximally at 260 nm because of:",
+      "answers": {
+        "a": "Ribose sugar",
+        "b": "Phosphate backbone",
+        "c": "Aromatic nitrogenous bases",
+        "d": "Hydrogen bonding"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The orcinol reaction detects RNA by measuring",
+      "answers": {
+        "a": "Nitrogenous base oxidation",
+        "b": "Ribose-derived furfural formation",
+        "c": "Phosphate release",
+        "d": "UV absorbance shift"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Compared to DNA, RNA is more unstable because",
+      "answers": {
+        "a": "RNA is single-stranded",
+        "b": "RNA contains uracil",
+        "c": "RNA has a 2'-OH group",
+        "d": "RNA lacks histone protection"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary purpose of Northern blotting?",
+      "answers": {
+        "a": "Protein analysis",
+        "b": "DNA quantification",
+        "c": "RNA fragment detection",
+        "d": "RNA-protein interaction study"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Match the following: (1) Northern blotting, (2) Southern blotting, (3) DNA fingerprinting, (4) Western blotting with (A) DNA-DNA hybrid, (B) Antigen-antibody binding, (C) RNA-DNA hybrid, (D) Southern blotting.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1-A, 2-C, 3-D, 4-B",
+        "b": "1-C, 2-A, 3-D, 4-B",
+        "c": "1-C, 2-D, 3-A, 4-B",
+        "d": "1-A, 2-B, 3-D, 4-C"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is used for detecting specific RNA sequence in blood or tissue samples?",
+      "answers": {
+        "a": "Northern blotting",
+        "b": "Southern blotting",
+        "c": "Western blotting",
+        "d": "Eastern blotting"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is the correct procedure for northern blotting?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "cDNA probe preparation -> mRNA isolation -> Hybridization with radiolabelled probe -> Separation of mRNA fragments on agarose gel -> Transfer of mRNA from gel to NC membrane -> Washing & autoradiogram",
+        "b": "mRNA isolation -> cDNA probe preparation -> Transfer of mRNA from gel to NC membrane -> Separation of mRNA fragments on agarose gel -> Hybridization with radiolabelled probe -> Washing & autoradiogram",
+        "c": "mRNA isolation -> Separation of mRNA fragments on agarose gel -> Transfer of mRNA from gel to NC membrane -> cDNA probe preparation -> Hybridization with radiolabelled probe -> Washing & autoradiogram",
+        "d": "cDNA probe preparation -> mRNA isolation -> Separation of mRNA fragments on agarose gel -> Transfer of mRNA from gel to NC membrane -> Hybridization with radiolabelled probe -> Washing & autoradiogram"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a common method for detecting RNA hybridization in Northern blotting?",
+      "answers": {
+        "a": "Autoradiography",
+        "b": "Fluorescence microscopy",
+        "c": "Colorimetric assays",
+        "d": "Mass spectrometry"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "____ affinity column is used for purification of mRNA?",
+      "answers": {
+        "a": "Poly-A",
+        "b": "Ni-NTA",
+        "c": "Poly-T",
+        "d": "Dextran"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the significance of pre-wetting the nitrocellulose membrane before mRNA transfer in Northern blotting?",
+      "answers": {
+        "a": "It prevents RNA degradation.",
+        "b": "It reduces background noise in hybridization.",
+        "c": "It increases mRNA electrophoretic mobility.",
+        "d": "It enhances mRNA binding to the membrane."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "After RNA transfer in Northern blotting, what is typically done to fix the RNA on the membrane before probe hybridization?",
+      "answers": {
+        "a": "UV cross-linking",
+        "b": "Ethanol precipitation",
+        "c": "Heat denaturation",
+        "d": "Alkaline treatment"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During the process of the Northern blotting technique, which component is used as a blocking agent?",
+      "answers": {
+        "a": "1x SSC",
+        "b": "5x buffer",
+        "c": "Prehybridization buffer",
+        "d": "Salmon sperm DNA"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main purpose of the blotting step in Northern blotting?",
+      "answers": {
+        "a": "Amplification of RNA fragments",
+        "b": "To digest RNA fragments",
+        "c": "To transfer RNA fragments from the gel to the membrane",
+        "d": "To increase RNA fragment size"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are RNA gels performed under denaturing conditions?",
+      "answers": {
+        "a": "The presence of a secondary structure in RNA allows the faster migration of RNA on an agarose gel, and it gives less time for the molecule to interact with the agarose gel",
+        "b": "The presence of linear structure in RNA allows the faster migration of RNA on agarose gel",
+        "c": "The presence of a secondary structure in RNA allows the faster migration of RNA on an agarose gel, and it gives more time for the molecule to interact with the agarose gel",
+        "d": "The presence of a simple linear structure in RNA allows the faster migration of RNA on an agarose gel, and it gives less time for the molecule to interact with the agarose gel"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
