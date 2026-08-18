@@ -1,5 +1,3 @@
-### Procedure
-
 ### STEP 1: Isolation of mRNA
 
 The schematic diagram to isolate mRNA from cells is given in Figure 2. Different steps to isolate mRNA is as follows:

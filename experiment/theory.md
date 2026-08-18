@@ -1,5 +1,3 @@
-### Theory
-
 Northern blotting works on the principle of the separating RNA by size using denaturation gel electrophoresis by preventing the secondary structure formation. The separated RNA is transferred to the nitrocellulose membrane. The RNA immobilized on to the membrane and the RNA fragments detected by the adding labelled probe which is complementary to RNA. The hybridized RNA visualized on auto-radiograph. It is a six-step technique for resolving mRNA into denatured agarose gel electrophoresis and detecting a specific gene to determine expression of a particular gene in the organism. The details of each step are given in the procedure, but a schematic outline of these steps is given in Figure 1. It is as follows:
 
 ![Figure 1](images/image.png)
