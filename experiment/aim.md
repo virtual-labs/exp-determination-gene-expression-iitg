@@ -1,5 +1,3 @@
-### Aim
-
 - Isolation of mRNA from mammalian cells.
 
 - Separation of mRNA into denatured agarose gel electrophoresis.
