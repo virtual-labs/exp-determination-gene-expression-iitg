@@ -116,3 +116,18 @@ Air-dry the membrane, expose to sensitive X-ray film at -80 °C with intensifyin
 ![Result](images/procedure-image-5.jpeg)
 
 Pancreatic RNA was extracted using the guanidine isothiocyanate method. The membrane was probed with the <sup>32</sup>P-labeled EGFR, EGF or TGF-α cDNA and, as a loading control, the 7S cDNA. Figure and legend reprinted with permission from the American Society for Clinical Investigation (conferred through the 'Copyright Clearance Center').
+
+### Radiation precautions
+
+Radioactive-labelled probes, commonly labelled with ³²P (Phosphorus-32), are used in Northern blotting to detect specific RNA transcripts. Since radioactive materials can cause radiation exposure and contamination, appropriate safety precautions must be followed.
+
+- Handle radioactive probes only in an authorized radioisotope laboratory.
+- Wear appropriate personal protective equipment (PPE), including a laboratory coat, disposable gloves and safety glasses.
+- Use designated radiation-shielding materials appropriate for the radionuclide. For ³²P, use suitable acrylic or Plexiglas shielding.
+- Never handle radioactive samples with bare hands.
+- Use dedicated pipettes, tubes and equipment for radioactive experiments.
+- Avoid splashing, aerosol formation and accidental spillage of radioactive solutions.
+- Never eat, drink, smoke or apply cosmetics in the radioactive work area.
+- Clearly label all radioactive samples with the isotope, activity and date.
+- Monitor work surfaces, gloves and equipment regularly using an appropriate radiation survey instrument.
+- Follow institutional radiation safety guidelines and work under the supervision of an authorized radiation safety officer.
