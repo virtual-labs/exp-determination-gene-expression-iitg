@@ -1,5 +1,3 @@
-- Isolation of mRNA from mammalian cells.
+- Perform mRNA isolation from mammalian cells and separate RNA molecules using denaturing agarose gel electrophoresis.
 
-- Separation of mRNA into denatured agarose gel electrophoresis.
-
-- Determination of gene expression by Northern blotting.
+- Design a Northern blotting experiment to investigate differential gene expression under different experimental conditions.
